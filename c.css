@@ -1,0 +1,101 @@
+body
+{
+	font-family: 'Source code pro', Calibri, serif;
+	margin: 0px;
+	padding: 0px;
+	background-color: grey;
+}
+
+{
+	width: 100%;
+	background-color: #424558; 
+}
+
+nav ul
+{
+	margin: 0px;
+	padding: 0px;
+	overflow: hidden;
+}
+
+nav li 
+{
+	list-style-type: none;
+	float: left; 
+}
+
+nav a
+{
+	display: inline-block;
+	text-decoration: none;
+	padding: 20px 30px;
+	color: #FFF;
+}
+
+.photo281
+{
+	margin: 0 auto;
+	width: 257px;
+	height: 257px;
+	border: 5px solid #333;
+	background-image: url("https://cdn.discordapp.com/attachments/722004328944107574/748089289912483860/bestofchaticone.png"); 
+}
+
+.zaOpx
+{
+	margin: 20px auto;
+	width: 80%;
+	padding: 15px;
+}
+
+.button1
+{
+	height: 20%;
+	width: 20%;
+	background-color: cyan;
+	border: none;
+	color: white;
+	padding: 1rem;
+	text-transform: uppercase;
+	font-size: 1rem;
+	margin: 4px 2px;
+	cursor: pointer;
+	border-radius: 2rem;
+}
+
+.ze38193
+{
+
+	padding: 15px;
+	width: 60%;
+	margin: 0px auto;
+	text-align: center;
+
+}
+
+.fg
+{
+	background-color: white;
+	border: none;
+	color: white;
+	padding: 1rem;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 30px;
+	margin: 3px 1.5px;
+	border-radius: 2rem;
+}
+
+.gg
+{
+	background-color: blue;
+	border: none;
+	color: blue;
+	padding: 1rem;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 30px;
+	margin: 3px 1.5px;
+}
